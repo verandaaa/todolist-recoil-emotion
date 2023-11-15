@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todolist-recoil-emotion/static/css/main.e6c13ad2.css",
+    "main.js": "/todolist-recoil-emotion/static/js/main.6b260600.js",
+    "static/js/787.56b078d3.chunk.js": "/todolist-recoil-emotion/static/js/787.56b078d3.chunk.js",
+    "index.html": "/todolist-recoil-emotion/index.html",
+    "main.e6c13ad2.css.map": "/todolist-recoil-emotion/static/css/main.e6c13ad2.css.map",
+    "main.6b260600.js.map": "/todolist-recoil-emotion/static/js/main.6b260600.js.map",
+    "787.56b078d3.chunk.js.map": "/todolist-recoil-emotion/static/js/787.56b078d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6b260600.js"
+  ]
+}
